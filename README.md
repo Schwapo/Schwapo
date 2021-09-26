@@ -7,7 +7,7 @@ My name is Antonio Rafael Antunes Miranda I'm a 23 year old programmer from Germ
 Im currently learning Game development with Unity and Shader Development.
 
 #### Contact Me
-<a href="rafael.antunes.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rafael.antunes.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ![]()
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
