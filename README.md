@@ -1,6 +1,5 @@
 ![](readme-banner.png)
 
----
 <p align="center">
 <a href="mailto:rafael.antunes.dev@gmail.com"><img src="https://img.shields.io/badge/rafael.antunes.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/antonio-rafael-antunes-miranda-6030a31b0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
