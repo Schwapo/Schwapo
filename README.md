@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/535479077566545947"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-## Hello <img src="https://github.com/Schwapo/Schwapo/blob/main/wave.gif" width="24.1" height="23.4">
+### Hello <img src="https://github.com/Schwapo/Schwapo/blob/main/wave.gif" width="24.1" height="23.4">
 My name is Antonio Rafael Antunes Miranda. I'm a 23-year-old programmer from Germany.  
 I'm currently learning Game and Shader development with Unity.
 
