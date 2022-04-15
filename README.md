@@ -7,7 +7,7 @@
 </p>
 
 ### Hello <img src="https://github.com/Schwapo/Schwapo/blob/main/wave.gif" width="24.1" height="23.4">
-My name is Antonio Rafael Antunes Miranda. I'm a 23-year-old programmer from Germany.  
+My name is Antonio Rafael Antunes Miranda. I'm a 24-year-old programmer from Germany.  
 I'm currently learning Game and Shader development with Unity. I also like to create editor tools.
 
 ### Favorite Programming Languages
