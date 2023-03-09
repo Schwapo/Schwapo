@@ -1,4 +1,4 @@
-![](banner.png)
+![](readne-banner.png)
 
 <p align="center">
 <a href="mailto:rafael.antunes.dev@gmail.com"><img src="https://img.shields.io/badge/rafael.antunes.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
